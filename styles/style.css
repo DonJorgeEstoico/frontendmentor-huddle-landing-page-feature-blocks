@@ -246,6 +246,10 @@ ion-icon:hover {
         width: fit-content;
     }
 
+    #header-section-area {
+        background-image: url(../images/bg-hero-mobile.svg);
+    }
+
     #mockup-area {
         flex-direction: column;
         gap: 3rem;
